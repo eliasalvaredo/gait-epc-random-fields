@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Clinical data and outputs from your own signals: never commit
+data/
+*.pod
+*_EPC.csv
+*_DMEPC_params.csv
